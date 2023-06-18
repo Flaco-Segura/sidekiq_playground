@@ -14,4 +14,4 @@
 
 ## Worker
 
-OurWorker.perform_async "<param>"
+`OurWorker.perform_async "<param>"`
