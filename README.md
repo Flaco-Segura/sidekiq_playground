@@ -11,6 +11,7 @@
 `bundle exec sidekiq -r ./worker.rb` to start sidekiq
 
 The Sidekiq GUI is on [Sidekiq](http:/localhost:3030)
+
 user: `admin`, pass: `password123`
 
 ## Worker
