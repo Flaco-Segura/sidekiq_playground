@@ -22,7 +22,10 @@ class OurWorker
       sleep 10
       puts "That was a bit of work"
     else
-      sleep 1
+      while true do
+        sleep 1
+        puts "zomg bug"
+      end
       puts "That wasn't a lot of effort"  
     end
   end
